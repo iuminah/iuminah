@@ -6,8 +6,8 @@
 ![Bootstrap](https://img.shields.io/static/v1?style=for-the-badge&message=Bootstrap&color=1572B6&logo=Bootstrap&logoColor=FFFFFF&label=)
 ![Tailwind](https://img.shields.io/static/v1?style=for-the-badge&message=tailwindcss&color=1572B6&logo=tailwindcss&logoColor=FFFFFF&label=)
 ![JavaScript](https://img.shields.io/badge/Javascript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
-![ReactJS](https://img.shields.io/badge/ReactJS-F7DF1E?logo=ReactJS&logoColor=black&style=for-the-badge)
-![ReactNative](https://img.shields.io/badge/ReactNative-F7DF1E?logo=ReactNative&logoColor=black&style=for-the-badge)
+![Reactjs](https://img.shields.io/badge/Reactjs-F7DF1E?logo=Reactjs&logoColor=black&style=for-the-badge)
+![Reactnative](https://img.shields.io/badge/Reactnative-F7DF1E?logo=Reactnative&logoColor=black&style=for-the-badge)
 ![Strapi](https://img.shields.io/badge/Strapi-F7DF1E?logo=strapi&logoColor=black&style=for-the-badge)
 ![Python](https://img.shields.io/static/v1?style=for-the-badge&message=Python&color=3776AB&logo=Python&logoColor=FFFFFF&label=)
 
