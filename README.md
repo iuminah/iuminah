@@ -6,7 +6,7 @@
 ![CSS3](https://img.shields.io/static/v1?style=for-the-badge&message=CSS3&color=1572B6&logo=CSS3&logoColor=FFFFFF&label=)
 ![JavaScript](https://img.shields.io/badge/Javascript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
 ![Strapi](https://img.shields.io/badge/Javascript-F7DF1E?logo=strapi&logoColor=black&style=for-the-badge)
-<img align="right" src="(https://avatars.githubusercontent.com/u/102435815?v=4)" width=240>
+<img align="right" src="https://avatars.githubusercontent.com/u/102435815?v=4" width=240>
 
 <!---
 iuminah/iuminah is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
