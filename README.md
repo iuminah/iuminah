@@ -1,5 +1,5 @@
 ### 👋 Hi, I’m Minah  
-##<img align="right" src="https://avatars.githubusercontent.com/u/102435815?v=4" width=260>
+<!-- <img align="right" src="https://avatars.githubusercontent.com/u/102435815?v=4" width=260> -->
 
 ##
 
