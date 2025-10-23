@@ -20,7 +20,7 @@
 ![Windows 10](https://img.shields.io/static/v1?style=for-the-badge&message=Windows+10&color=0078D6&logo=Windows+10&logoColor=FFFFFF&label=)
 ![Macos](https://img.shields.io/static/v1?style=for-the-badge&message=Macos&color=white&logo=Apple&logoColor=black&label=)
 ![Windows 11](https://img.shields.io/static/v1?style=for-the-badge&message=Windows+11&color=white&logo=Windows+11&logoColor=0e7dd6&label=)
-![Ubuntu](https://img.shields.io/static/v1?style=for-the-badge&message=Ubuntu&color=white&logo=Ubuntu+11&logoColor=0e7dd6&label=)
+![Ubuntu](https://img.shields.io/static/v1?style=for-the-badge&message=Ubuntu&color=E34F26&logo=Ubuntu&logoColor=0e7dd6&label=)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![xcode](https://img.shields.io/static/v1?style=for-the-badge&message=xcode&color=0078D66&logo=xcode&logoColor=white&label=)
 ![Visual Studio Code](https://img.shields.io/static/v1?style=for-the-badge&message=Visual%20Studio%20Code&color=1f9cf0&logo=Visual%20Studio%20Code&logoColor=white&label=)
